@@ -12,8 +12,8 @@ I help residential builders win more business through technology — modern webs
 ## 🛠️ Background: IT & Systems
 
 Before construction tech, I built hands-on IT infrastructure projects:
-- [osTicket Help Desk — Install & Config](https://github.com/DorseaColwell/osticket-prereqs) · [Post-Install Config](https://github.com/DorseaColwell/post-install-config) · [Ticket Lifecycle](https://github.com/DorseaColwell/ticket-lifecycle)
-- [Active Directory in Azure VMs](https://github.com/DorseaColwell/configure-ad) · [Network Security Groups](https://github.com/DorseaColwell/azure-network-protocols)
+- [osTicket Help Desk — Install & Config](https://github.com/DorseaColwell/osticket-prereqs) · [Ticket Lifecycle](https://github.com/DorseaColwell/ticket-lifecycle)
+- [Active Directory in Azure VMs](https://github.com/DorseaColwell/configure-ad)
 
 ## 🤳 Connect
 
