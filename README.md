@@ -1,21 +1,20 @@
-<h1>Hello, I am Dorsea, an <a href="https://linkedin.com/in/dorseacolwell">IT Professional</a>☺</h1>
+# Hi, I'm Dorsea — Construction Technology Consultant 🏗️
 
-<h2>👨‍💻 Information Technology Projects:</h2>
+I help residential builders win more business through technology — modern websites, lead systems, and construction software done right.
 
-- <b>osTicket (Help Desk Ticketing System)</b>
-  - [osTicket: Prerequisites and Installation](https://github.com/DorseaColwell/osticket-prereqs)
-  - [osTicket: Post-Installation Configuration](https://github.com/DorseaColwell/post-install-config)
-  - [osTicket: Ticket Lifecycle Examples](https://github.com/DorseaColwell/ticket-lifecycle)
-- <b>Microsoft Azure</b>
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/DorseaColwell/configure-ad)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/DorseaColwell/azure-network-protocols)
+**Procore Certified** (Core Tools — GC) · Currently completing Procore Admin Certification
 
-<h2>🤳Connect with me:</h2>
+## 🔨 Construction Tech Projects
 
-[<img align="left" alt="Dorsea | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="Dorsea | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Dorsea | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+- **[Cervelle Homes — Website Redesign](https://cervellehomes.vercel.app)**
+  Full redesign concept for a residential builder: modern UI, lead capture, mobile-first. Built with Next.js, deployed on Vercel.
 
-[twitter]: https://twitter.com/xphazoo
-[instagram]: https://www.instagram.com/aesrodborsea
-[linkedin]: https://linkedin.com/in/dorseacolwell
+## 🛠️ Background: IT & Systems
+
+Before construction tech, I built hands-on IT infrastructure projects:
+- [osTicket Help Desk — Install & Config](https://github.com/DorseaColwell/osticket-prereqs) · [Post-Install Config](https://github.com/DorseaColwell/post-install-config) · [Ticket Lifecycle](https://github.com/DorseaColwell/ticket-lifecycle)
+- [Active Directory in Azure VMs](https://github.com/DorseaColwell/configure-ad) · [Network Security Groups](https://github.com/DorseaColwell/azure-network-protocols)
+
+## 🤳 Connect
+
+[LinkedIn](https://linkedin.com/in/dorseacolwell)
